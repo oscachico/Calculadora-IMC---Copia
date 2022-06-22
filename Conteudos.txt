@@ -1,0 +1,7 @@
+Formula imc 
+
+IMC = Peso / (ALTURA) ao quadrado
+
+fazer no code da seguinte forma 
+
+S = n1 / n2**2
